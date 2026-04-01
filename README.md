@@ -40,10 +40,11 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
   <!-- Data Tools -->
- <img src="https://skillicons.dev/icons?i=numpy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
+ <!-- Data Science -->
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/><br>
   <!-- DevOps & Cloud -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
 
