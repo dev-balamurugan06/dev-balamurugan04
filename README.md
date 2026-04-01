@@ -2,8 +2,8 @@
   <img src="https://github.com/user-attachments/assets/ca3c6ee8-93bf-4db1-8b85-6ca4a74f32fa" />
 </p>
 
-<h1 align="center">Hi!👋,<h1> <br>
-  <h4>I'm Balamurugan </h4>
+<h1 align="center">Hi!👋, <br>
+  I'm Balamurugan </h1>
 <h3 align="center">Full Stack Developer & AI/ML Engineer</h3>
 
 <p align="center">
