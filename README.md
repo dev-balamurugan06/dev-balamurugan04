@@ -1,6 +1,5 @@
 <p align="center">
-  <img src=" />![WhatsApp Image 2026-03-27 at 6 09 51 AM](https://github.com/user-attachments/assets/ca3c6ee8-93bf-4db1-8b85-6ca4a74f32fa)"
-
+  <img src="https://github.com/user-attachments/assets/ca3c6ee8-93bf-4db1-8b85-6ca4a74f32fa" />
 </p>
 
 <h1 align="center">Hi 👋, <br>
