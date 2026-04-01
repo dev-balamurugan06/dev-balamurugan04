@@ -21,10 +21,28 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,tensorflow,pytorch" />
-</p>
 
+<p align="center">
+
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" /><br>
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /><br>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" /><br>
+
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" /><br>
+
+  <!-- AI/ML -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /><br>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+
+</p>
 ---
 
 ### 📊 GitHub Stats
