@@ -25,7 +25,7 @@
 <p align="center">
 
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts," />
 
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
