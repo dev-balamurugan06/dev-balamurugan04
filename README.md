@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="C:\Users\Bala\Downloads\WhatsApp Image 2026-03-27 at 6.09.51 AM.jpeg" />
+  <img src=" />![WhatsApp Image 2026-03-27 at 6 09 51 AM](https://github.com/user-attachments/assets/ca3c6ee8-93bf-4db1-8b85-6ca4a74f32fa)"
+
 </p>
 
 <h1 align="center">Hi 👋, <br>
   I'm Balamurugan</h1>
-<h3 align="center">Full Stack Developer & AI/ML Engineer 🤖🚀</h3>
+<h3 align="center">Full Stack Developer & AI/ML Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+Smart+Applications+🤖;Love+Coding+🔥" />
