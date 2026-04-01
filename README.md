@@ -3,24 +3,25 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bala</h1>
-<h3 align="center">Full Stack Developer 🚀</h3>
+<h3 align="center">Full Stack Developer & AI/ML Engineer 🤖🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Love+Coding+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+Smart+Applications+🤖;Love+Coding+🔥" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- 💻 I love building web applications  
-- 🚀 Passionate about coding & tech  
-- 🌱 Currently learning new technologies  
+- 💻 Full Stack Developer (Frontend + Backend)  
+- 🤖 AI/ML Engineer 
+- 🚀 Building intelligent applications  
+- 🌱 Always learning new technologies  
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,tensorflow,pytorch" />
 </p>
 
 ---
