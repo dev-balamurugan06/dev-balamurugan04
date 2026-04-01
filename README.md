@@ -25,28 +25,28 @@
 <p align="center">
 
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,go,r" /><br>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
 
   <!-- AI/ML / Data Science -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
   <!-- Data Tools -->
   <img src="https://skillicons.dev/icons?i=anaconda" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
   <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
