@@ -2,7 +2,8 @@
   <img src="C:\Users\Bala\Downloads\WhatsApp Image 2026-03-27 at 6.09.51 AM.jpeg" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Balamurugan</h1>
+<h1 align="center">Hi 👋, <br>
+  I'm Balamurugan</h1>
 <h3 align="center">Full Stack Developer & AI/ML Engineer 🤖🚀</h3>
 
 <p align="center">
