@@ -25,19 +25,19 @@
 <p align="center">
 
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
 
   <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 
   <!-- AI/ML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
