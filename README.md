@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">Hi!👋, <br>
-  I'm Balamurugan <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/226dd5f5-2615-41ca-991d-da2bd0b18d58" />
-</h1>
+  I'm Balamurugan </h1>
 <h3 align="center">Full Stack Developer & AI/ML Engineer</h3>
 
 <p align="center">
