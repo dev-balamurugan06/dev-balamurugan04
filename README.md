@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![WhatsApp Image 2026-03-27 at 6 09 51 AM](https://github.com/user-attachments/assets/af7cbf70-fc43-40b7-bd90-4675adae618e)
-" />
+  <img src="C:\Users\Bala\Downloads\WhatsApp Image 2026-03-27 at 6.09.51 AM.jpeg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bala</h1>
