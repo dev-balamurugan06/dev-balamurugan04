@@ -18,7 +18,7 @@
 - 🚀 Building intelligent applications  
 - 🌱 Always learning new technologies  
 
----
+<hr>
 
 ### 🛠️ Tech Stack
 
@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 
 </p>
----
+<hr>
 
 ### 📊 GitHub Stats
 <p align="center">
