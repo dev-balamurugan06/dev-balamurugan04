@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi!👋, <br>
-  <hr>
   I'm Balamurugan</h1>
 <h3 align="center">Full Stack Developer & AI/ML Engineer</h3>
 
