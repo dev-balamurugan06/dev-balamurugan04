@@ -57,9 +57,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balamurugan&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-balamurugan06&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-balamurugan06&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=balamurugan&theme=radical" />
 </p>
